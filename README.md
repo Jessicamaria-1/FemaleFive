@@ -14,5 +14,5 @@ Ziele sind somit einerseits die gezielte Unterstützung bei unerwünschten Verl�
 
 Das Forum soll eine Stammtisch-Mentalität ins Digitale übersetzen. Alltägliche Glückserlebnisse aber auch Niederschläge können so geteilt werden und dienen so der seelischen Gesundheit. 
 
-  Prototyp Link:
+  Prototyp Link: https://xd.adobe.com/view/5cfad0ad-56a0-46ed-b147-500145752c44-09a9/?fullscreen
 #FemaleFive: Samira Mikhail, Victoria Sauter, Jessica Melzer, Lisa Schrempf, Corinne Blessing
